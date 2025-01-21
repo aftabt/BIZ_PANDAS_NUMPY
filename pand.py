@@ -1,1 +1,0 @@
-print("pandas and numpy")
